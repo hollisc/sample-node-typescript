@@ -1,7 +1,7 @@
 {
-  "name": "template-node-typescript",
+  "name": "hc-node-typescript",
   "version": "1.0.0",
-  "org": "my-org",
+  "org": "hollisc",
   "description": "Code pattern for starting a typescript-based microservice",
   "main": "index.js",
   "config": {
